@@ -1,4 +1,4 @@
-## Welcome to VIDAV
+## Uma História em 3 encontros 
 
 You can use the [editor on GitHub](https://github.com/Vinimoura/vidav.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Elëve Vida
 
-A Eleve Vida se apresenta como um ambiente em educação livre de convivio para pratica de alimentação a base de plantas.
+A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
+
 ```markdown
 Syntax highlighted code block
 
