@@ -4,16 +4,15 @@ You can use the [editor on GitHub](https://github.com/Vinimoura/vidav.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Elëve Vida
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+A Eleve Vida se apresenta como um ambiente em educação livre de convivio para pratica de alimentação a base de plantas.
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Suco Verde :maçãverde:
+## Germinação de Sementes e Leites Vegetais :amendoins:
+### Queijos Vegetais :fatiadequeijo:
 
 - Bulleted
 - List
