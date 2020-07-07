@@ -12,39 +12,50 @@ Vinícius Vida é o contador de histórias que irá trazer suas experiências em
 
 A Elëve Vida nos traz um convite para nos alimentarmos de vida, com a intenção de elevar a vitalidade e consciência da nossa alimentação. Vamos compartilhar a cada encontro novas práticas, ingredientes e receitas simples em nossa rotina, como o suco de sol (suco verde), germinação de sementes, leites e queijos vegetais, entre diversas receitas e combinações deliciosas. Tudo isso regado a contos do Céu e da Terra.  Múltiplas histórias e experiências preenchem as entrelinhas dos encontros. 
 
-# :sunflower: ENCONTRO 1: A Interconectividade: A ciência do Universo - “O encontro do milagre da Vida “
+<h3 align="center">
+:sunflower: ENCONTRO 1: :sunflower: 
+<br>
 
-Vamos falar de:
+## A Interconectividade: A ciência do Universo - “O encontro do milagre da Vida “
+
+### Vamos falar de:
+
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
-Práticas: 
-*Silêncio; 
-*Respiração;
-*Conexão física;
-*Princípios da germinação de sementes;
-*Sucos de Sol (sucos verde);
-*Dança Circular.
+Práticas:
+* Silêncio; 
+* Respiração;
+* Conexão física;
+* Princípios da germinação de sementes;
+* Sucos de Sol (sucos verde);
+* Dança Circular.
 
-# :sunflower: ENCONTRO 2: Biogênicos e Bioativos  (“O Leite da Mãe Terra”)
+<h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
+<br>
+ Biogênicos e Bioativos  (“O Leite da Mãe Terra”)
 
-Vamos falar de:
+### Vamos falar de:
 
 Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
 Práticas: 
-*Silêncio; 
-*Respiração;
-*Conexão física;
-*Preparo de leites vegetais e Rejuvelac;
-*Roda de Conversa (Tema: Compostagem).
+* Silêncio; 
+* Respiração;
+* Conexão física;
+* Preparo de leites vegetais e Rejuvelac;
+* Roda de Conversa (Tema: Compostagem).
 
-# :sunflower: ENCONTRO 3:  Arte e Ciência ("O caminho" )
+<h3 align="center"> :sunflower: ENCONTRO 3:<br>
+ 
+ ## Arte e Ciência ("O caminho" )
 
-Vamos falar de: Queijos Vivos, Alimentação a base de plantas na promoção de Saúde.
+### Vamos falar de: 
+
+Queijos Vivos, Alimentação a base de plantas na promoção de Saúde.
 
 Práticas: 
-*Silêncio; 
-*Respiração;
-*Conexão física;
-*Preparo de Queijos;
-*Roda de Conversa (Tema Livre).
+* Silêncio; 
+* Respiração;
+* Conexão física;
+* Preparo de Queijos;
+* Roda de Conversa (Tema Livre).
