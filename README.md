@@ -52,7 +52,7 @@ Práticas:
 
 ### Vamos falar de: 
 
-Queijos Vivos, Alimentação a base de plantas na promoção de Saúde.
+Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
 
 Práticas: 
 * Silêncio; 
