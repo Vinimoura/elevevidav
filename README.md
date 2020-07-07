@@ -17,7 +17,7 @@ A Elëve Vida nos traz um convite para nos alimentarmos de vida, com a intençã
 :sunflower: ENCONTRO 1: :sunflower: 
 <br>
 
-A Interconectividade: A ciência do Universo - “O encontro do milagre da Vida “
+A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “
 
 ### Vamos falar de:
 
@@ -33,7 +33,7 @@ Práticas:
 
 <h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
 <br>
- Biogênicos e Bioativos  (“O Leite da Mãe Terra”)
+ Biogênicos e Bioativos  | “O Leite da Mãe Terra”
 
 ### Vamos falar de:
 
@@ -48,7 +48,7 @@ Práticas:
 
 <h3 align="center"> :sunflower: ENCONTRO 3: :sunflower: <br>
  
- Arte e Ciência ("O caminho" )
+ Arte e Ciência | "O caminho" 
 
 ### Vamos falar de: 
 
