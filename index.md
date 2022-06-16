@@ -1,5 +1,5 @@
 
-## seedling: Uma História em 3 encontros 
+## :seedling: Uma História em 3 encontros 
 
 O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobre o ciclo de vida do alimento, técnicas de promoção de saúde, qualidade de vida. Também promove a tecedura de diversos dos "nós" presentes nas redes da agricultura familiar, servindo como inspiração e educação da comunidade a respeito da alimentação digna, segurança alimentar e nutricional, produção e distribuição de orgânicos, princípios da agroecologia, compostagem, entre outros temas, sempre tratados na forma de roda de diálogo e contação de histórias.
 
