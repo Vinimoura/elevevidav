@@ -1,4 +1,3 @@
-<p align="center"> <img src="docs/assets/css/eleve vida logo.png"> <br>
 
 <p align="center"> <a href="https://youtu.be/OTEtg17IWiI" target="_blank">
  <img src="docs/assets/css/eleve vida logo.png" alt="Clique e conheça a Historia" align="center"> 
