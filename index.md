@@ -26,13 +26,14 @@ A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida 
 
 O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
-Práticas:
-- Silêncio; 
-- Respiração;
-- Conexão física;
-- Princípios da germinação de sementes;
-- Sucos de Sol (sucos verde);
-- Dança Circular. 
+<ul>Práticas:
+ <li>Silêncio</li> 
+ <li>Respiração</li>
+ <li>Conexão física</li>
+ <li>Princípios da germinação de sementes</li>
+ <li>Sucos de Sol (sucos verde)</li>
+ <li>Dança Circular</li>
+</ul>
   
  <h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
 <br>
@@ -42,12 +43,13 @@ Práticas:
 
 Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
-Práticas: 
-- Silêncio; 
-- Respiração;
-- Conexão física;
-- Preparo de leites vegetais e Rejuvelac;
- - Roda de Conversa (Tema: Compostagem).
+<ul>Práticas: 
+ <li>Silêncio</li>
+ <li>Respiração</li>
+ <li>Conexão física</li>
+ <li>Preparo de leites vegetais e Rejuvelac</li>
+ <li>Roda de Conversa (Tema: Compostagem).</li>
+ </ul>
 
 <h3 align="center"> :sunflower: ENCONTRO 3: :sunflower: <br>
   
@@ -57,12 +59,13 @@ Práticas:
 
 Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.
 
-Práticas: 
-- Silêncio; 
-- Respiração;
-- Conexão física;
-- Preparo de Queijos;
- - Roda de Conversa (Tema Livre).
+<ul>Práticas: 
+ <li>Silêncio</li>
+ <li>Respiração</li>
+ <li>Conexão física</li>
+ <li>Preparo de Queijos</li>
+ <li>Roda de Conversa (Tema Livre)</li>
+ </ul>
 
  <h3>Novas Postagens<br>
 
