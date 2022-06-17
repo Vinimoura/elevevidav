@@ -3,7 +3,7 @@
  <img src="docs/assets/css/eleve vida logo.png" alt="Clique e conheça a Historia" align="center"> 
 </a></p>
 
-### Elëve Vida
+ <a> <h3 align="center"> Clique :point_up_2: <br> </a>
 
 A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
 
