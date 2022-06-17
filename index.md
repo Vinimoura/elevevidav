@@ -11,32 +11,10 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
 
-<!--markdown
-Syntax highlighted code block-->
 
-### Suco Verde :maçãverde:
-### Germinação de Sementes e Leites Vegetais :amendoins:
-### Queijos Vegetais :fatiadequeijo:
-
-<!---<a> Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinimoura/vidav.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.</a> --> 
+### Suco Verde :apple:
+### Germinação de Sementes e Leites Vegetais :peanuts:
+### Queijos Vegetais :cheese:
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
@@ -44,7 +22,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “
 
- <h2>Vamos falar de:</h2>
+ <h2>Vamos falar de:<br>
 
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
@@ -60,7 +38,7 @@ Práticas:
 <br>
  Biogênicos e Bioativos  | “O Leite da Mãe Terra”
 
-<h2>Vamos falar de:</h2>
+<h2>Vamos falar de:<br>
 
 Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
@@ -75,7 +53,7 @@ Práticas:
   
    Arte e Ciência | "O caminho" 
 
-<h2>Vamos falar de:</h2>
+<h2>Vamos falar de:<br>
 
 Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
 
@@ -86,6 +64,6 @@ Práticas:
 - Preparo de Queijos;
 - Roda de Conversa (Tema Livre).
 
- <h1>Novas Postagens</h1>
+ <h1>Novas Postagens<br>
 
 Aqui escrevo Novidades 
