@@ -12,7 +12,9 @@ A Eleve Vida se apresenta como um conto neste ambiente de educação livre no co
 O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobre o ciclo de vida do alimento, técnicas de promoção de saúde, qualidade de vida. Também promove a tecedura de diversos dos "nós" presentes nas redes da agricultura familiar, servindo como inspiração e educação da comunidade a respeito da alimentação digna, segurança alimentar e nutricional, produção e distribuição de orgânicos, princípios da agroecologia, compostagem, entre outros temas, sempre tratados na forma de roda de diálogo e contação de histórias.
 
 
-<h3 align="center"> :leafy_green: Suco Verde :apple: | :seedling: Germinação de Sementes e Leites Vegetais :peanuts: | :microbe: Queijos Vegetais :cheese:<br>
+<h3 align="center"> 
+ :leafy_green: Suco Verde :apple: | :seedling: Germinação de Sementes e Leites Vegetais :peanuts: | :microbe: Queijos Vegetais :cheese:
+ <br>
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
