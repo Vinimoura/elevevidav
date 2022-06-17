@@ -26,13 +26,13 @@ A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida 
 
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
-<div> Práticas:
+Práticas:
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Princípios da germinação de sementes;
 - Sucos de Sol (sucos verde);
-- Dança Circular. </div>
+- Dança Circular. 
   
  <h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
 <br>
