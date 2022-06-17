@@ -11,14 +11,14 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
 
-``markdown
-Syntax highlighted code block``
+<!--markdown
+Syntax highlighted code block-->
 
-# Suco Verde :maçãverde:
-## Germinação de Sementes e Leites Vegetais :amendoins:
-### Queijos Vegetais :fatiadequeijo:
+<h3>Suco Verde :maçãverde:</h3>
+<h3>Germinação de Sementes e Leites Vegetais :amendoins:</h3>
+<h3>Queijos Vegetais :fatiadequeijo:</h3>
 
-- Bulleted
+<a> <!--- Bulleted
 - List
 
 1. Numbered
@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.--> </a>
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “
 
-### Vamos falar de:
+ <h2>Vamos falar de:</h2>
 
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
@@ -60,7 +60,7 @@ Práticas:
 <br>
  Biogênicos e Bioativos  | “O Leite da Mãe Terra”
 
-### Vamos falar de:
+<h2>Vamos falar de:</h2>
 
 Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
@@ -75,7 +75,7 @@ Práticas:
   
    Arte e Ciência | "O caminho" 
 
-### Vamos falar de: 
+<h2>Vamos falar de:</h2>
 
 Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
 
@@ -86,6 +86,6 @@ Práticas:
 - Preparo de Queijos;
 - Roda de Conversa (Tema Livre).
 
-### Novas Postagens
+ <h1>Novas Postagens</h1>
 
 Aqui escrevo Novidades 
