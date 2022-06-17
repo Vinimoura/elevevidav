@@ -3,7 +3,7 @@
  <img src="docs/assets/css/eleve vida logo.png" alt="Clique e conheça a Historia" align="center"> 
 </a></p>
 
- <a> <h3 align="center">Clique :point_up: <br> </a>
+ <h3 align="center"> Clique :point_up: </h3>
 
 A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
 
@@ -26,13 +26,13 @@ A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida 
 
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
-<a>Práticas:
+<div> Práticas:
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Princípios da germinação de sementes;
 - Sucos de Sol (sucos verde);
- - Dança Circular.</a>
+- Dança Circular. </div>
   
  <h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
 <br>
@@ -42,12 +42,12 @@ O que é alimentação viva, por quê alimentação viva, a prática de "colher 
 
 Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
-<a>Práticas: 
+<div>Práticas: 
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Preparo de leites vegetais e Rejuvelac;
- - Roda de Conversa (Tema: Compostagem).</a>
+ - Roda de Conversa (Tema: Compostagem).</div>
 
 <h3 align="center"> :sunflower: ENCONTRO 3: :sunflower: <br>
   
@@ -57,12 +57,12 @@ Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e
 
 Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
 
-<a>Práticas: 
+<div>Práticas: 
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Preparo de Queijos;
- - Roda de Conversa (Tema Livre).</a>
+ - Roda de Conversa (Tema Livre).</div>
 
  <h3>Novas Postagens<br>
 
