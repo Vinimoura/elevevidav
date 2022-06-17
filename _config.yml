@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Bem Vindo a Elëve Vidav 
 description: O Caminho segue por aqui
-mardown: kramdown
+markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
