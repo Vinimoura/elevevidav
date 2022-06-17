@@ -11,14 +11,14 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 A Eleve Vida se apresenta como um conto neste ambiente de educação livre no convivio em comunidade para pratica de alimentação a base de plantas.
 
-```markdown
-<!--Syntax highlighted code block`-->
+``markdown
+Syntax highlighted code block``
 
 # Suco Verde :maçãverde:
 ## Germinação de Sementes e Leites Vegetais :amendoins:
 ### Queijos Vegetais :fatiadequeijo:
 
-<!-- - Bulleted
+- Bulleted
 - List
 
 1. Numbered
@@ -28,16 +28,15 @@ A Eleve Vida se apresenta como um conto neste ambiente de educação livre no co
 
 [Link](url) and ![Image](src)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
-```
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<!-- ### Jekyll Themes
+### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinimoura/vidav.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
