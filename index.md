@@ -25,7 +25,7 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <p align="center"><a>O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.</a></p>
 
-<ul>Práticas:<br>
+<ul>Práticas:
  
  <li>Silêncio</li> 
  <li>Respiração</li>
@@ -43,7 +43,7 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <p align="center"><a>Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.</a></p>
 
-<ul>Práticas:<br>
+<ul>Práticas:
  
  <li>Silêncio</li>
  <li>Respiração</li>
