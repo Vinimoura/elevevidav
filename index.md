@@ -50,12 +50,12 @@ A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida 
 O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
 Práticas:
-* Silêncio; 
-* Respiração;
-* Conexão física;
-* Princípios da germinação de sementes;
-* Sucos de Sol (sucos verde);
-* Dança Circular.
+- Silêncio; 
+- Respiração;
+- Conexão física;
+- Princípios da germinação de sementes;
+- Sucos de Sol (sucos verde);
+- Dança Circular.
   
  <h3 align="center"> :sunflower: ENCONTRO 2: :sunflower: 
 <br>
@@ -66,11 +66,11 @@ Práticas:
 Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
 Práticas: 
-* Silêncio; 
-* Respiração;
-* Conexão física;
-* Preparo de leites vegetais e Rejuvelac;
-* Roda de Conversa (Tema: Compostagem).
+- Silêncio; 
+- Respiração;
+- Conexão física;
+- Preparo de leites vegetais e Rejuvelac;
+- Roda de Conversa (Tema: Compostagem).
 
 <h3 align="center"> :sunflower: ENCONTRO 3: :sunflower: <br>
   
@@ -81,11 +81,11 @@ Práticas:
 Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
 
 Práticas: 
-* Silêncio; 
-* Respiração;
-* Conexão física;
-* Preparo de Queijos;
-* Roda de Conversa (Tema Livre).
+- Silêncio; 
+- Respiração;
+- Conexão física;
+- Preparo de Queijos;
+- Roda de Conversa (Tema Livre).
 
 ### Novas Postagens
 
