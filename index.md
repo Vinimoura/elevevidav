@@ -1,4 +1,4 @@
-<p href="https://www.youtube.com/watch?v=OTEtg17IWiI&t=5s" target="_blank" >
+<p href="https://www.youtube.com/watch?v=OTEtg17IWiI&t=5s" align="center" target="_blank" >
  <img src="docs/assets/css/eleve vida logo.png" alt="Clique e conheça a Historia" align="center"> 
 </p>
 
