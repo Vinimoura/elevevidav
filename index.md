@@ -1,7 +1,7 @@
-<p align = "center">
- <img src = "docs/assets/css/eleve vida logo.png"> 
+<p href="https://www.youtube.com/watch?v=OTEtg17IWiI&t=5s" target = "_blank" align = "center">
+ <img src = "docs/assets/css/eleve vida logo.png" alt= "Clique e conheça a Historia"> 
 </p>
-<p align = "center"></p>
+
 
 ## :seedling: Uma História em 3 encontros 
 
