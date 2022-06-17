@@ -22,9 +22,9 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “
 
- <h2>Vamos falar de:<br>
+ ### Vamos falar de:
 
-O que é alimentação viva, por quê alimentação viva, a prática de "colher o sol", Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
+O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.
 
 Práticas:
 - Silêncio; 
@@ -38,31 +38,31 @@ Práticas:
 <br>
  Biogênicos e Bioativos  | “O Leite da Mãe Terra”
 
-<h2>Vamos falar de:<br>
+### Vamos falar de:
 
-Leites vegetais, Agroecologia e o ciclo do alimento, mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
+Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.
 
-<div>Práticas: 
+Práticas: 
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Preparo de leites vegetais e Rejuvelac;
- - Roda de Conversa (Tema: Compostagem).</div>
+ - Roda de Conversa (Tema: Compostagem).
 
 <h3 align="center"> :sunflower: ENCONTRO 3: :sunflower: <br>
   
    Arte e Ciência | "O caminho" 
 
-<h2>Vamos falar de:<br>
+### Vamos falar de:
 
-Queijos Vivos, Torta Viva, Alimentação a base de plantas na promoção de Saúde.
+Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.
 
-<div>Práticas: 
+Práticas: 
 - Silêncio; 
 - Respiração;
 - Conexão física;
 - Preparo de Queijos;
- - Roda de Conversa (Tema Livre).</div>
+ - Roda de Conversa (Tema Livre).
 
  <h3>Novas Postagens<br>
 
