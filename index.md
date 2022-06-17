@@ -1,3 +1,7 @@
+<p align = "center">
+ <img src = "docs/assets/css/eleve vida logo.png"> 
+</p>
+<p align = "center"></p>
 
 ## :seedling: Uma História em 3 encontros 
 
