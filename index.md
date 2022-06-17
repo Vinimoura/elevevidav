@@ -14,11 +14,11 @@ A Eleve Vida se apresenta como um conto neste ambiente de educação livre no co
 <!--markdown
 Syntax highlighted code block-->
 
-<h3>Suco Verde :maçãverde:</h3>
-<h3>Germinação de Sementes e Leites Vegetais :amendoins:</h3>
-<h3>Queijos Vegetais :fatiadequeijo:</h3>
+### Suco Verde :maçãverde:
+### Germinação de Sementes e Leites Vegetais :amendoins:
+### Queijos Vegetais :fatiadequeijo:
 
-<a> <!--- Bulleted
+<!---<a> Bulleted
 - List
 
 1. Numbered
@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.--> </a>
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.</a> --> 
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
