@@ -18,14 +18,15 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <h3 align="center">
 :sunflower: ENCONTRO 1: :sunflower: 
- <br> </h3>
- <p align="center">A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “<br></p>
+ <br> 
+ A Interconectividade: A ciência do Universo | “O encontro do milagre da Vida “
 
  <h3>Vamos falar de:</h3>
 
-<p align="center">O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.</p>
+<p align="center"><a>O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.</a></p>
 
-<ul>Práticas:
+<ul>Práticas:<br>
+ 
  <li>Silêncio</li> 
  <li>Respiração</li>
  <li>Conexão física</li>
@@ -40,9 +41,10 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <h3>Vamos falar de:</h3>
 
-<p align="center">Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.</p>
+<p align="center"><a>Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.</a></p>
 
-<ul>Práticas: 
+<ul>Práticas:<br>
+ 
  <li>Silêncio</li>
  <li>Respiração</li>
  <li>Conexão física</li>
@@ -56,9 +58,10 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <h3>Vamos falar de:</h3>
  
- <p align="center">"Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.</p>
+ <p align="center"><a>Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.</a></p>
 
-<ul>Práticas: 
+<ul>Práticas:
+ 
  <li>Silêncio</li>
  <li>Respiração</li>
  <li>Conexão física</li>
