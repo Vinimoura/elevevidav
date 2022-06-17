@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 title: Bem Vindo a Elëve Vidav 
 description: O Caminho segue por aqui 
-plugins: jemoji
+plugins:
+  - jemoji
