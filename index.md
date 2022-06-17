@@ -1,5 +1,5 @@
-<p href="https://www.youtube.com/watch?v=OTEtg17IWiI&t=5s" target = "_blank" align = "center">
- <img src = "docs/assets/css/eleve vida logo.png" alt= "Clique e conheça a Historia"> 
+<p href="https://www.youtube.com/watch?v=OTEtg17IWiI&t=5s" target="_blank" >
+ <img src="docs/assets/css/eleve vida logo.png" alt="Clique e conheça a Historia" align="center"> 
 </p>
 
 
