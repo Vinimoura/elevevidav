@@ -23,7 +23,7 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
  <h3>Vamos falar de:</h3>
 
-<u>O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.</u>
+<b align="center">O que é alimentação viva | por quê alimentação viva, a prática de "colher o sol" | Germinação de Brotos e Sementes, a estrutura celular das plantas e a nossa, a biologia das sementes e práticas ancestrais de alimentação.</b>
 
 <ul>Práticas:
  <li>Silêncio</li> 
@@ -40,7 +40,7 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <h3>Vamos falar de:</h3>
 
-<u>Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.</u>
+<b align="center">Leites vegetais | Agroecologia e o ciclo do alimento | mecânica dos Solos Vivos e produção de alimentos em agroflorestas.</b>
 
 <ul>Práticas: 
  <li>Silêncio</li>
@@ -56,7 +56,7 @@ O projeto traz de maneira lúdica, participativa e acessível conhecimentos sobr
 
 <h3>Vamos falar de:</h3>
  
- <u>Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.</u>
+ <b align="center">Queijos Vivos | Torta Viva | Alimentação a base de plantas na promoção de Saúde.</b>
 
 <ul>Práticas: 
  <li>Silêncio</li>
